@@ -1,11 +1,11 @@
+# twitter-clone-layout
+
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DaniloSouza19/twitter-clone-layout?color=%2304D361">
 
   <a href="">
     <img alt="Made by Danilo" src="https://img.shields.io/badge/made%20by-DaniloSouza19-%2304D361">
   </a>
-
-# twitter-clone-layout
 
 layout clone do Tweeter
 
