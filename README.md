@@ -7,9 +7,9 @@
     <img alt="Made by Danilo" src="https://img.shields.io/badge/made%20by-DaniloSouza19-%2304D361">
   </a>
 
-layout clone do Tweeter
+layout clone do twitter
 
-Clone layout from Twetter 
+Clone layout from twitter 
 
 # Tecnologias | Techs:
 
