@@ -1,15 +1,19 @@
 # twitter-clone-layout
-clone layout from twetter 
 
-Techs:
+layout clone do Tweeter
+
+Clone layout from Twetter 
+
+# Tecnologias | Techs:
 
 * html5 
 * css3 wich display flex
 
+# Executar | Run
 
-# EXECUTAR
+para usar este layout basta executar o arquivo <strong>index.html</strong> (não requer pacote adicional)
 
-Para executar este layout não querer nenhum requisito, basta executar o index.html.
+to use this layout just run the <strong>index.html</strong> file (Does not require additional package)
 
 <img src="https://github.com/DaniloSouza19/twitter-clone-layout/blob/master/final_layout.png" alt="Layoyt">
 </img>
