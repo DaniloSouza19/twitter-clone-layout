@@ -1,7 +1,12 @@
 # twitter-clone-layout
-clone layout from twetter | html5 css3 wich display flex
+clone layout from twetter 
+
+Techs:
+
+* html5 
+* css3 wich display flex
 
 
-#EXECUTAR
+# EXECUTAR
 
-Para usar não querer nenhum requisito, basta executar o index.html.
+Para executar este layout não querer nenhum requisito, basta executar o index.html.
